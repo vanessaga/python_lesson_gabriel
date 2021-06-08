@@ -1,5 +1,5 @@
 ## Python Lesson
 
-Author: Vanessa Gabriel
+Author: Vanessa Gabriel, B.A.
 
 
